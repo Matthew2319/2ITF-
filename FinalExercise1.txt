@@ -11,5 +11,5 @@ echo substr_compare("siya pa rin","siya pa rin",0);
 
 
 Maui was here
-
+echo strtolower ("<b>LINGA</b>") . "<br>" ;
 ?>
