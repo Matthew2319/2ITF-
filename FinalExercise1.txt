@@ -7,7 +7,7 @@ echo  strtolower("<b>$loki</b>") . "<br>" ;
 echo  Ucfirst("<b>$loki</b>") . "<br>";
 echo  Ucwords("<b>$loki</b>") . "<br>" ;
 echo  strlen('Eh paano kung hindi hindi ka nakilala') . "<br>" ;
-
+echo substr_compare("siya pa rin","siya pa rin",0);
 
 
 
