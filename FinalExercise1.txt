@@ -10,6 +10,6 @@ echo  strlen('Eh paano kung hindi hindi ka nakilala') . "<br>" ;
 
 
 
-
+echo "Maui was here";
 
 ?>
