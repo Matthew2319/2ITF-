@@ -1,0 +1,15 @@
+<?php
+$loki = 'Eh paano kung hindi hindi ka nakilala';
+
+
+echo  strtoupper("<b>$loki</b>") . "<br>" ;
+echo  strtolower("<b>$loki</b>") . "<br>" ;
+echo  Ucfirst("<b>$loki</b>") . "<br>";
+echo  Ucwords("<b>$loki</b>") . "<br>" ;
+echo  strlen('Eh paano kung hindi hindi ka nakilala') . "<br>" ;
+
+
+
+
+
+?>
