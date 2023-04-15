@@ -12,4 +12,12 @@ echo substr_compare("siya pa rin","siya pa rin",0);
 
 Maui was here
 
+
+echo(fmod(20, 4) . "<br>");
+echo(fmod(20, 3) . "<br>");
+echo(fmod(15, 6) . "<br>");
+echo(fmod(-10, 3) . "<br>");
+echo(fmod(0, 0));
+
+echo  strtolower("<b>Linga</b>") . "<br>" ;
 ?>
